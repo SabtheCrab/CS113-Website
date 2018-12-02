@@ -1,0 +1,13 @@
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.ui.huge.button{
+    margin-bottom: 50px;
+}
+
+.ui.link.cards{
+    height: 200px;
+
+}
