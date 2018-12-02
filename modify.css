@@ -7,7 +7,7 @@ ul {
     margin-bottom: 50px;
 }
 
-.ui.link.cards{
-    height: 200px;
-
+.card{
+    height: 200 px;
+    margin: 20px  !important;
 }
