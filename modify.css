@@ -11,3 +11,8 @@ ul {
     height: 200 px;
     margin: 20px  !important;
 }
+
+.card img{
+    object-fit: cover;
+    height: 200px !important;
+}
